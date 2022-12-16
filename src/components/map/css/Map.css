@@ -1,0 +1,24 @@
+.map-container {
+  background-color: #ccc;
+  height: 100%;
+  margin: -1rem;
+  margin-bottom: 0;
+  padding-bottom: 4.5rem;
+}
+
+.map-overlay {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  padding: 1rem;
+  padding-top: 0;
+  border-top: 1px solid #fcfcfc;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-collapse: separate;
+  perspective: 1;
+  max-height: 350px;
+  overflow-x: scroll;
+}

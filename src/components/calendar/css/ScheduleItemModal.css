@@ -1,0 +1,7 @@
+.react-calendar__tile--selected {
+  background: #1878d9;
+}
+.react-calendar {
+  width: 100%;
+  border: none;
+}

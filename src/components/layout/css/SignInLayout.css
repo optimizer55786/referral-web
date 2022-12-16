@@ -1,0 +1,29 @@
+#signin-layout {
+  margin-top: 5%;
+}
+
+#signin-layout ul {
+  list-style-type: none;
+  margin: 0;
+  margin-top: 1rem;
+  padding: 0;
+}
+
+#signin-layout ul li {
+  margin: 0;
+  margin-bottom: 0.5rem;
+  padding: 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-med-blue);
+}
+
+#signin-layout ul li:last-child {
+  border-bottom: none;
+  margin-bottom: 1.5rem;
+}
+
+.footer-copy {
+  color: #fff;
+  text-align: center;
+  margin-top: 2rem;
+}
